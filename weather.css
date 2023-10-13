@@ -1,5 +1,5 @@
 #container {
-  background-image: url(../weather_image/images.jpg);
+  background-image: url(./images.jpg);
   background-size: cover;
   border: 1px solid white;
   width: 500px;
